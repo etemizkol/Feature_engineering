@@ -14,15 +14,7 @@ pd.set_option('display.expand_frame_repr', False)
 # kem küm
 
 
-
-
-
-
-
-
-#------------------------------------------------Titanic-----------------------------------------------------------#
+# ------------------------------------------------Titanic-----------------------------------------------------------#
 
 
 df_titanic = pd.read_csv(r"D:\DATA SCIENCE\VAHİT BAŞKAN\7. Hafta\odev_1_feature_engineering\titanic.csv")
-
-
