@@ -20,7 +20,7 @@ pd.set_option('display.expand_frame_repr', False)
 
 # Read data
 
-df_ = pd.read_csv(r"D:\DATA SCIENCE\VAHİT BAŞKAN\7. Hafta\odev_1_feature_engineering\hitters.csv")
+df_ = pd.read_csv(r"\hitters.csv")
 df = df_.copy()
 
 
