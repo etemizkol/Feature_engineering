@@ -18,7 +18,7 @@ pd.set_option('display.expand_frame_repr', False)
 # ------------------------------------------------Titanic-----------------------------------------------------------#
 
 
-df_titanic_ = pd.read_csv(r"D:\DATA SCIENCE\VAHİT BAŞKAN\7. Hafta\odev_1_feature_engineering\titanic.csv")
+df_titanic_ = pd.read_csv(r"\titanic.csv")
 df_titanic = df_titanic_.copy()
 
 # Değişken Mühendisliği
