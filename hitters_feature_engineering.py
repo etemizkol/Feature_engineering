@@ -1,0 +1,1 @@
+# This is a study about feature engineering in hitters dataset
